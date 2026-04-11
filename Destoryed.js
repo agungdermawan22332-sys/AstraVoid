@@ -3,7 +3,7 @@
     "1468883524": {
       "tokens": [],
       "role": "FULL_UP",
-      "waitingFor": "TARGET_VIP",
+      "waitingFor": null,
       "tempType": "VIP",
       "tempFileId": "AgACAgUAAxkBAANIadpDdB3Y0Bb_QxTC68UimO4NcV8AAtoRaxt6ldBWBKt4EQWzlEQBAAMCAAN3AAM7BA"
     },
