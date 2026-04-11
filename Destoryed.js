@@ -58,9 +58,11 @@
       "waitingFor": null
     },
     "6770573388": {
-      "tokens": [],
+      "tokens": [
+        "7822242523:AAEmtC1TOXTyHrLNx9A0BzC74xZDLagZ56g"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
