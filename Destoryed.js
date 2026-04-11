@@ -46,9 +46,7 @@
       "waitingFor": null
     },
     "8556760308": {
-      "tokens": [
-        "8720069954:AAGKUOHEid68wSYyHpg1im95EJm8uxMzk-g"
-      ],
+      "tokens": [],
       "role": "FULL_UP",
       "waitingFor": null
     },
