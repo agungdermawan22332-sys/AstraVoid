@@ -11,6 +11,11 @@
       "waitingFor": null,
       "tempType": "RESELLER",
       "tempFileId": "AgACAgUAAxkBAAMiadonAAFkMmiSjOsMItJfro-JBGOAAAKMDWsbFW3YVjq7PrCdX9rkAQADAgADeQADOwQ"
+    },
+    "6229144614": {
+      "tokens": [],
+      "role": "FULL_UP",
+      "waitingFor": null
     }
   }
 }
