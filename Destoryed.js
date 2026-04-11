@@ -3,7 +3,7 @@
     "1468883524": {
       "tokens": [],
       "role": "FULL_UP",
-      "waitingFor": null,
+      "waitingFor": "SEND_TOKEN",
       "tempType": "FULL",
       "tempFileId": "AgACAgUAAyEFAATgiM5BAAIsU2naIpoeX-BGE3eaaz-TfJFAhAK8AALXDWsbvLnRVnpfYHMS6Nd5AQADAgADeQADOwQ"
     },
