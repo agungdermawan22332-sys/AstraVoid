@@ -50,7 +50,7 @@
         "8720069954:AAGKUOHEid68wSYyHpg1im95EJm8uxMzk-g"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     }
   }
 }
