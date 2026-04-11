@@ -17,7 +17,9 @@
     "6229144614": {
       "tokens": [],
       "role": "FULL_UP",
-      "waitingFor": "PROOF_RESELLER"
+      "waitingFor": "TARGET_RESELLER",
+      "tempType": "RESELLER",
+      "tempFileId": "AgACAgUAAxkBAANladpGyIlwNFSjSEnbe67mF84zPAYAAq0Maxvh8thWn3GYq0NDYPkBAAMCAAN5AAM7BA"
     },
     "7589205453": {
       "tokens": [],
