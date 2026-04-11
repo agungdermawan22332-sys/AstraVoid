@@ -17,7 +17,7 @@
     "6229144614": {
       "tokens": [],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "PROOF_RESELLER"
     },
     "7589205453": {
       "tokens": [],
