@@ -10,7 +10,7 @@
     "7822513730": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": "PROOF_VIP",
+      "waitingFor": "TARGET_VIP",
       "tempType": "VIP",
       "tempFileId": "AgACAgUAAxkBAAMiadonAAFkMmiSjOsMItJfro-JBGOAAAKMDWsbFW3YVjq7PrCdX9rkAQADAgADeQADOwQ"
     },
