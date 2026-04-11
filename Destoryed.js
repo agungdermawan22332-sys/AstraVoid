@@ -20,7 +20,9 @@
     "7589205453": {
       "tokens": [],
       "role": "FULL_UP",
-      "waitingFor": "PROOF_VIP"
+      "waitingFor": "TARGET_VIP",
+      "tempType": "VIP",
+      "tempFileId": "AgACAgUAAxkBAAMqadon1muV-XEhg-N-SScBPIX-p_cAAjQTaxt-b9FWTj265-xT7pYBAAMCAAN5AAM7BA"
     }
   }
 }
