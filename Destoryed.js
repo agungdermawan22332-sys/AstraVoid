@@ -8,9 +8,11 @@
       "tempFileId": "AgACAgUAAxkBAANIadpDdB3Y0Bb_QxTC68UimO4NcV8AAtoRaxt6ldBWBKt4EQWzlEQBAAMCAAN3AAM7BA"
     },
     "7822513730": {
-      "tokens": [],
+      "tokens": [
+        "8765211795:AAGx02Z3nV2rGuJ42-CklE05oQixIeAvCG0"
+      ],
       "role": "VIP",
-      "waitingFor": "SEND_TOKEN",
+      "waitingFor": null,
       "tempType": "VIP",
       "tempFileId": "AgACAgUAAxkBAAMiadonAAFkMmiSjOsMItJfro-JBGOAAAKMDWsbFW3YVjq7PrCdX9rkAQADAgADeQADOwQ"
     },
