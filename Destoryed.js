@@ -47,7 +47,6 @@
     },
     "8556760308": {
       "tokens": [
-        "8720069954:AAGKUOHEid68wSYyHpg1im95EJm8uxMzk-g",
         "8720069954:AAGKUOHEid68wSYyHpg1im95EJm8uxMzk-g"
       ],
       "role": "FULL_UP",
