@@ -8,7 +8,7 @@
     "7822513730": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": "TARGET_RESELLER",
+      "waitingFor": null,
       "tempType": "RESELLER",
       "tempFileId": "AgACAgUAAxkBAAMiadonAAFkMmiSjOsMItJfro-JBGOAAAKMDWsbFW3YVjq7PrCdX9rkAQADAgADeQADOwQ"
     }
