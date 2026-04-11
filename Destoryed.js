@@ -3,9 +3,9 @@
     "1468883524": {
       "tokens": [],
       "role": "FULL_UP",
-      "waitingFor": "PROOF_VIP",
-      "tempType": "FULL",
-      "tempFileId": "AgACAgUAAyEFAATgiM5BAAIsU2naIpoeX-BGE3eaaz-TfJFAhAK8AALXDWsbvLnRVnpfYHMS6Nd5AQADAgADeQADOwQ"
+      "waitingFor": "TARGET_VIP",
+      "tempType": "VIP",
+      "tempFileId": "AgACAgUAAxkBAANIadpDdB3Y0Bb_QxTC68UimO4NcV8AAtoRaxt6ldBWBKt4EQWzlEQBAAMCAAN3AAM7BA"
     },
     "7822513730": {
       "tokens": [],
