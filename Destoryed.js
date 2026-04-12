@@ -41,9 +41,7 @@
       "waitingFor": null
     },
     "8715334628": {
-      "tokens": [
-        "8350706666:AAF_0C__GR8Jz58IGxdg4-YglaUAD2FFaU4"
-      ],
+      "tokens": [],
       "role": "FULL_UP",
       "waitingFor": "SEND_TOKEN"
     }
