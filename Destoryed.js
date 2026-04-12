@@ -3,7 +3,7 @@
     "1436840454": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": null
+      "waitingFor": "PROOF_VIP"
     },
     "7361669691": {
       "tokens": [],
