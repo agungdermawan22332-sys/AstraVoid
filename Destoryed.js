@@ -25,7 +25,7 @@
         "8280134609:AAFkZi9b9ulV4GMmTL30kUG-CkQvEJILW6A"
       ],
       "role": "VIP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "8556760308": {
       "tokens": [],
