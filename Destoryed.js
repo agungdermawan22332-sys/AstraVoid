@@ -99,9 +99,11 @@
       "waitingFor": "SEND_TOKEN"
     },
     "8311834864": {
-      "tokens": [],
+      "tokens": [
+        "8781252068:AAFTceFJ1-dNQkZa4uewkevubtwDclb-lxU"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
