@@ -120,9 +120,11 @@
       "waitingFor": null
     },
     "8400270744": {
-      "tokens": [],
+      "tokens": [
+        "8400270744"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
