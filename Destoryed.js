@@ -77,7 +77,7 @@
         "8503122213:AAHNU6QaYD6jq9xkoCsRW6Z13lB0yPON2pQ"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     }
   }
 }
