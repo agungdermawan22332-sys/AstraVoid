@@ -97,6 +97,11 @@
       "tokens": [],
       "role": "FULL_UP",
       "waitingFor": "SEND_TOKEN"
+    },
+    "8311834864": {
+      "tokens": [],
+      "role": "FULL_UP",
+      "waitingFor": null
     }
   }
 }
