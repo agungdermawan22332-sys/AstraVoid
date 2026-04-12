@@ -3,6 +3,11 @@
     "7967316739:AAEuTmEixVTSdWsEvg6prd_4MTLxFFGx5-Q"
   ],
   "users": {
+    "1196786312": {
+      "tokens": [],
+      "role": "FULL_UP",
+      "waitingFor": null
+    },
     "1259141405": {
       "tokens": [],
       "role": "FULL_UP",
