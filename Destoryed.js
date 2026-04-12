@@ -77,9 +77,11 @@
       "waitingFor": "SEND_TOKEN"
     },
     "7967180563": {
-      "tokens": [],
+      "tokens": [
+        "8624795439:AAHHRMszT89GxM4VsJw3aGXQ2w1sxwKX_Hs"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "8682801067": {
       "tokens": [],
