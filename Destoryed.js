@@ -4,9 +4,11 @@
   ],
   "users": {
     "1468883524": {
-      "tokens": [],
+      "tokens": [
+        "8343524324:AAFijxR-5fJX2u-fR63avEFr-SKt_Ge6x_M"
+      ],
       "role": "VIP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "7711925066": {
       "tokens": [],
