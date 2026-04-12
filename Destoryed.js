@@ -27,9 +27,11 @@
       "waitingFor": null
     },
     "6590432084": {
-      "tokens": [],
+      "tokens": [
+        "8557261536:AAHsNkLvNuSzoZcqfQvhMDQDP1JvDt6YwNM"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
