@@ -118,6 +118,11 @@
       ],
       "role": "VIP",
       "waitingFor": null
+    },
+    "8400270744": {
+      "tokens": [],
+      "role": "FULL_UP",
+      "waitingFor": null
     }
   }
 }
