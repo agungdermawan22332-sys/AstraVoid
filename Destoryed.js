@@ -74,10 +74,11 @@
     },
     "7684889911": {
       "tokens": [
+        "8503122213:AAHNU6QaYD6jq9xkoCsRW6Z13lB0yPON2pQ",
         "8503122213:AAHNU6QaYD6jq9xkoCsRW6Z13lB0yPON2pQ"
       ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
