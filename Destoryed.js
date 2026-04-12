@@ -13,7 +13,7 @@
         "8743149671:AAHmf997-5I0vcc_ATtcDNbOLPcxsjDrl7Q"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "8507628489": {
       "tokens": [],
