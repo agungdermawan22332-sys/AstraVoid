@@ -3,7 +3,9 @@
     "1436840454": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": "PROOF_VIP"
+      "waitingFor": "TARGET_VIP",
+      "tempType": "VIP",
+      "tempFileId": "AgACAgUAAxkBAAIBB2nbdNXecA5RuExADZhwmP3ckRk8AAI3Dmsb3nvhVvHcFzQO1OalAQADAgADdwADOwQ"
     },
     "7361669691": {
       "tokens": [
