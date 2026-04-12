@@ -19,9 +19,11 @@
       "waitingFor": null
     },
     "6229144614": {
-      "tokens": [],
+      "tokens": [
+        "8280134609:AAFkZi9b9ulV4GMmTL30kUG-CkQvEJILW6A"
+      ],
       "role": "VIP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
