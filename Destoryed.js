@@ -22,10 +22,11 @@
     },
     "6229144614": {
       "tokens": [
-        "8280134609:AAFkZi9b9ulV4GMmTL30kUG-CkQvEJILW6A"
+        "8280134609:AAFkZi9b9ulV4GMmTL30kUG-CkQvEJILW6A",
+        "8750748054:AAHJ5VA9-PBpHu7WKP0h-6WGB6pmDTxEhiM"
       ],
       "role": "VIP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "8556760308": {
       "tokens": [],
