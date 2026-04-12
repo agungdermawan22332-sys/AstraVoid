@@ -83,7 +83,7 @@
     "7822513730": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     }
   }
 }
