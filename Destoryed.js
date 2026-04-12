@@ -58,9 +58,11 @@
       "waitingFor": null
     },
     "8118119361": {
-      "tokens": [],
+      "tokens": [
+        "8447986937:AAG-oS4XPzOhksEoc02Ukvz3uLQPOhpQUOA"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
