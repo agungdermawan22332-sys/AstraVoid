@@ -106,7 +106,7 @@
         "8714800796:AAH3Ad4_RclU-UcRKBUmsJ9ftdAQl3NZ8Xo"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "8701782736": {
       "tokens": [],
