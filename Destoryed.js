@@ -107,7 +107,7 @@
     "7711925066": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     }
   }
 }
