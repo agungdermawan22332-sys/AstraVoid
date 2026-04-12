@@ -13,7 +13,9 @@
         "8343524324:AAFijxR-5fJX2u-fR63avEFr-SKt_Ge6x_M"
       ],
       "role": "VIP",
-      "waitingFor": "PROOF_VIP"
+      "waitingFor": "TARGET_VIP",
+      "tempType": "VIP",
+      "tempFileId": "AgACAgUAAxkBAAPBadtqXqMWJgsaODq0Y9CaKtSq0g8AAsYMaxt6leBW9WtUCyg9HOoBAAMCAAN3AAM7BA"
     },
     "7711925066": {
       "tokens": [],
