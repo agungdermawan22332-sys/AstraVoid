@@ -6,7 +6,7 @@
     "1468883524": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "7711925066": {
       "tokens": [],
