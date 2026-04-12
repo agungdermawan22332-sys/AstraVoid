@@ -103,6 +103,11 @@
       "tokens": [],
       "role": "FULL_UP",
       "waitingFor": "SEND_TOKEN"
+    },
+    "7711925066": {
+      "tokens": [],
+      "role": "VIP",
+      "waitingFor": null
     }
   }
 }
