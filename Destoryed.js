@@ -6,7 +6,7 @@
     "1196786312": {
       "tokens": [],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "1259141405": {
       "tokens": [],
