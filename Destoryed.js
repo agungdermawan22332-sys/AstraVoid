@@ -45,7 +45,7 @@
         "8350706666:AAF_0C__GR8Jz58IGxdg4-YglaUAD2FFaU4"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "5824758284": {
       "tokens": [
