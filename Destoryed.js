@@ -1,5 +1,10 @@
 {
   "users": {
+    "1259141405": {
+      "tokens": [],
+      "role": "VIP",
+      "waitingFor": null
+    },
     "1436840454": {
       "tokens": [],
       "role": "VIP",
