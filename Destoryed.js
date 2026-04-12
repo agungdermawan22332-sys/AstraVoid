@@ -20,10 +20,11 @@
     "1517320707": {
       "tokens": [
         "8586322616",
+        "8586322616",
         "8586322616"
       ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "7361669691": {
       "tokens": [
