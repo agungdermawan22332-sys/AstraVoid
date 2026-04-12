@@ -13,7 +13,7 @@
         "8343524324:AAFijxR-5fJX2u-fR63avEFr-SKt_Ge6x_M"
       ],
       "role": "VIP",
-      "waitingFor": null
+      "waitingFor": "PROOF_VIP"
     },
     "7711925066": {
       "tokens": [],
