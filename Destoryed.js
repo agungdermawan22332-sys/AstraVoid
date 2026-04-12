@@ -61,9 +61,11 @@
       "waitingFor": "SEND_TOKEN"
     },
     "6923829283": {
-      "tokens": [],
+      "tokens": [
+        "1"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
