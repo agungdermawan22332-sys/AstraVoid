@@ -112,7 +112,6 @@
     },
     "8701782736": {
       "tokens": [
-        "8648863490:AAH8O29g9vEiXZmxbaqNFyT3b_X5xUy2Brc",
         "8648863490:AAH8O29g9vEiXZmxbaqNFyT3b_X5xUy2Brc"
       ],
       "role": "FULL_UP",
