@@ -118,10 +118,11 @@
     "7711925066": {
       "tokens": [
         "8515818766:AAHiDH20wYgqq0kKEsHRmxjDgD7UDU61MCo",
+        "8515818766:AAHiDH20wYgqq0kKEsHRmxjDgD7UDU61MCo",
         "8515818766:AAHiDH20wYgqq0kKEsHRmxjDgD7UDU61MCo"
       ],
       "role": "VIP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "8400270744": {
       "tokens": [
