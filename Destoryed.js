@@ -105,7 +105,6 @@
     },
     "7504765830": {
       "tokens": [
-        "8714800796:AAH3Ad4_RclU-UcRKBUmsJ9ftdAQl3NZ8Xo",
         "8714800796:AAH3Ad4_RclU-UcRKBUmsJ9ftdAQl3NZ8Xo"
       ],
       "role": "FULL_UP",
