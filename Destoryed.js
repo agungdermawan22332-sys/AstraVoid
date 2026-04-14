@@ -272,7 +272,7 @@
         "8759004694:AAFEEzysjAktrKkys08gB-TONeK5Bf57hg0"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     }
   }
 }
