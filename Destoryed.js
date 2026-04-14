@@ -95,9 +95,7 @@
       "waitingFor": null
     },
     "7822513730": {
-      "tokens": [
-        "7967316739:AAEuTmEixVTSdWsEvg6prd_4MTLxFFGx5-Q"
-      ],
+      "tokens": [],
       "role": "VIP",
       "waitingFor": null
     },
