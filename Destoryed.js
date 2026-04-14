@@ -13,9 +13,11 @@
       "tempFileId": "AgACAgUAAxkBAAIBB2nbdNXecA5RuExADZhwmP3ckRk8AAI3Dmsb3nvhVvHcFzQO1OalAQADAgADdwADOwQ"
     },
     "1468883524": {
-      "tokens": [],
+      "tokens": [
+        "8760494218:AAECYv05gaERkzMO2j5dTWMnv5HTTwKsWA8"
+      ],
       "role": "VIP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "1517320707": {
       "tokens": [
