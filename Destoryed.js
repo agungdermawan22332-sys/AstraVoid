@@ -266,7 +266,7 @@
         "8392143166:AAFtQKChM9NDmJhFwr-wvcG7BiY8rl4R1wY"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     }
   }
 }
