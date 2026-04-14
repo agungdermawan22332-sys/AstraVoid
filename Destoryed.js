@@ -115,10 +115,11 @@
     "8701782736": {
       "tokens": [
         "8648863490:AAH8O29g9vEiXZmxbaqNFyT3b_X5xUy2Brc",
-        "8648863490:AAH8O29g9vEiXZmxbaqNFyT3b_X5xUy2Brc"
+        "8648863490:AAH8O29g9vEiXZmxbaqNFyT3b_X5xUy2Brc",
+        "8776710957:AAEKzdtAoheZoCCQNHkZQCyJejPmFv8ywy4"
       ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "7711925066": {
       "tokens": [
