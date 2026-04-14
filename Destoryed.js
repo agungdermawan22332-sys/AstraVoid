@@ -17,7 +17,7 @@
         "8760494218:AAECYv05gaERkzMO2j5dTWMnv5HTTwKsWA8"
       ],
       "role": "VIP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "1517320707": {
       "tokens": [
