@@ -21,9 +21,7 @@
       "waitingFor": null
     },
     "1517320707": {
-      "tokens": [
-        "8586322616"
-      ],
+      "tokens": [],
       "role": "FULL_UP",
       "waitingFor": null
     },
