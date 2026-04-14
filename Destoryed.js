@@ -96,7 +96,9 @@
     "7822513730": {
       "tokens": [],
       "role": "VIP",
-      "waitingFor": "PROOF_RESELLER"
+      "waitingFor": "TARGET_RESELLER",
+      "tempType": "RESELLER",
+      "tempFileId": "AgACAgUAAxkBAAIB92nd11L8dL5A6KB5s7Th67FWUlaPAAJ2DWsboCrxVp-mNV-qZplLAQADAgADeQADOwQ"
     },
     "7659615563": {
       "tokens": [
