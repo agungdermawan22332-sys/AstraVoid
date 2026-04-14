@@ -186,7 +186,7 @@
         "8258537567:AAFnNWh12fUxXbMJ4uv_gQnncgiGJ8c-8HE"
       ],
       "role": "FULL_UP",
-      "waitingFor": null
+      "waitingFor": "SEND_TOKEN"
     },
     "8254797425": {
       "tokens": [],
