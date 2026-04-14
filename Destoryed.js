@@ -224,9 +224,11 @@
       "waitingFor": "SEND_TOKEN"
     },
     "5712427478": {
-      "tokens": [],
+      "tokens": [
+        "8621816704:AAE0Cy3rVV5SHEy5Wjf2Wbc6bxbUqMITS3o"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
