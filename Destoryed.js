@@ -262,9 +262,11 @@
       "waitingFor": "SEND_TOKEN"
     },
     "8388412356": {
-      "tokens": [],
+      "tokens": [
+        "8392143166:AAFtQKChM9NDmJhFwr-wvcG7BiY8rl4R1wY"
+      ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
