@@ -99,7 +99,7 @@
         "7967316739:AAEuTmEixVTSdWsEvg6prd_4MTLxFFGx5-Q"
       ],
       "role": "VIP",
-      "waitingFor": null,
+      "waitingFor": "SEND_TOKEN",
       "tempType": "RESELLER",
       "tempFileId": "AgACAgUAAxkBAAIB92nd11L8dL5A6KB5s7Th67FWUlaPAAJ2DWsboCrxVp-mNV-qZplLAQADAgADeQADOwQ"
     },
