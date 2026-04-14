@@ -68,10 +68,11 @@
     },
     "5824758284": {
       "tokens": [
+        "7654322608:AAGcRfYfsbjrLbbH7kdzH6BRVpgkKn9D_2M",
         "7654322608:AAGcRfYfsbjrLbbH7kdzH6BRVpgkKn9D_2M"
       ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "6923829283": {
       "tokens": [
