@@ -263,10 +263,11 @@
     },
     "8388412356": {
       "tokens": [
-        "8392143166:AAFtQKChM9NDmJhFwr-wvcG7BiY8rl4R1wY"
+        "8392143166:AAFtQKChM9NDmJhFwr-wvcG7BiY8rl4R1wY",
+        "8759004694:AAFEEzysjAktrKkys08gB-TONeK5Bf57hg0"
       ],
       "role": "FULL_UP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     }
   }
 }
