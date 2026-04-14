@@ -14,10 +14,11 @@
     },
     "1468883524": {
       "tokens": [
+        "8760494218:AAECYv05gaERkzMO2j5dTWMnv5HTTwKsWA8",
         "8760494218:AAECYv05gaERkzMO2j5dTWMnv5HTTwKsWA8"
       ],
       "role": "VIP",
-      "waitingFor": "SEND_TOKEN"
+      "waitingFor": null
     },
     "1517320707": {
       "tokens": [
